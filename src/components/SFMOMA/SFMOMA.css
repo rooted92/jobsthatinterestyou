@@ -1,0 +1,17 @@
+.jobsBtn {
+    width: 155px;
+    background-color: #EB5E28;
+    border: none
+}
+
+.jobContainer {
+    width: 1145px;
+    min-height: 50rem;
+    background-color: #CCC5B9;
+    border: solid 4px #EB5E28;
+    border-radius: 1rem 1rem;
+}
+
+.jobHeaderColor{
+    color: #EB5E28;
+}
