@@ -1,7 +1,9 @@
 // Pedro Castaneda
 // 03-03-2023
 // Assignment: Jobs That Interest You
-// Peer Review: 
+// REMEMBER - when you pull code from github on to your repo and open it in VS Code, be sure you are in root folder then enter
+// command: npm install. After the installation run: npm start.
+// Peer Review:
 
 import './App.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
