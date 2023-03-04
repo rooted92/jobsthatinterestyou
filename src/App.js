@@ -3,7 +3,7 @@
 // Assignment: Jobs That Interest You
 // REMEMBER - when you pull code from github on to your repo and open it in VS Code, be sure you are in root folder then enter
 // command: npm install. After the installation run: npm start.
-// Peer Review:
+// Peer Review by - Daniel Decoito: Pedro's project was done really well and meets all the requirements. While his design was simple, it still worked  well  as everything was legible and had a good use of color.  His file structure was set up really well and looking over his code everything was concise and clear. The thing that sets this project apart from other projects is the depth in which Pedro went into each one of the jobs. You can tell he really researched every position.
 
 import './App.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
